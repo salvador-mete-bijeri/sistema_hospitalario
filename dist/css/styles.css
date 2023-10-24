@@ -1,0 +1,19 @@
+
+
+
+
+
+.img_principal{
+
+    background-image: url(../img/img-3.png);
+    background-repeat: no-repeat;
+   background-position: center center;
+    background-size: contain;
+    height: auto;
+}
+
+.imagen_logo{
+   height: 100px;
+   width: 100px;
+    margin-bottom: 5px;
+}
